@@ -5,18 +5,18 @@ Jupyter notebook environment that supports interactive widgets. Execute the note
 ipywidgets to run this (if you still haven't). Then, enter text into the input box labeled "Input:". As you type, the notebook will generate and display predictions based on the input text.
 
 Results may look like:
-'''
+```
 "I enjoy"
-'''
+```
 
 Predictions will be displayed:
 
-'''
+```
 - "reading: 0.3502"
 - "writing: 0.2205"
 - "watching: 0.1801"
 - "playing: 0.1503"
 - "learning: 0.0990"
-'''
+```
 
 Do whatever you want with it lol
